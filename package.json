@@ -89,7 +89,7 @@
     "ember-utc-transform": "0.0.8",
     "ember-web-app": "^1.1.0",
     "ember-web-app-rename": "^1.0.0",
-    "eslint": "^3.14.1",
+    "eslint": "^3.16.0",
     "eslint-config-airbnb-base": "^11.0.1",
     "eslint-config-unstandard": "^1.4.2",
     "eslint-plugin-import": "^2.2.0",
