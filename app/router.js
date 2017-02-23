@@ -49,7 +49,6 @@ RouterInstance.map(function() {
     });
   });
 
-  // @TODO: Redirect to /new
   this.route('groups', function() {
     this.route('new');
     this.route('group', { path: '/:slug' }, function() {
